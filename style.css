@@ -1,0 +1,19 @@
+
+ul {
+    display: flex;
+    gap:40px;
+}
+
+
+li {
+    list-style: none;
+}
+
+
+header {
+    color:blanchedalmond;
+    display:flex;
+    background-color: darkred;
+    padding: 5px 50px;
+    justify-content: space-between;
+}
